@@ -1,0 +1,144 @@
+#title{
+  background-color:#DCF2F1;
+  height:700px;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  color: #FF004D;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 3rem;
+  margin-top: 0px;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+body{
+  font-family: "Dancing Script", cursive;
+background-color:#DCF2F1;
+}
+.navbar-brand{
+  font-size: 5rem;
+  font-weight: bold;
+  color:#030637;
+}
+.nav-link{
+  font-size: 2rem;
+  font-weight: bold;
+  color:#030637;
+}
+.navbar{
+  padding-bottom: 5rem;
+}
+p{
+  font-size: 2rem;
+}
+.button-inline{
+  padding: 2% 2% 2% 2%;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+.title-image{
+  width: 80%;
+  transform: rotate(10deg);
+}
+.icon-1{
+  max-width: 20%;
+  max-height: 20%;
+}
+.icon-2{
+  max-width: 50%;
+  max-height: 50%;
+}
+.icon-3{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #F5E8DD;
+  height:400px;
+  margin-top: 0px;
+}
+.Modern{
+  max-width: 50%;
+  max-height: 50%;
+}
+.summer{
+  max-width: 70%;
+  max-height: 70%;
+}
+.winter{
+  max-width: 50%;
+  max-height: 50%;
+}
+.one-img{
+  max-width: 50%;
+  max-height: 50%;
+}
+.logo-img{
+  max-width: 30%;
+  max-height: 30%;
+}
+.log-img{
+  max-width: 20%;
+  max-height: 20%;
+}
+.two-img{
+  max-width: 50%;
+  max-height: 50%;
+}
+.three-img{
+  max-width: 50%;
+  max-height: 50%;
+}
+.icon{
+  color: #265073;
+}
+.icon:hover{
+  color: #FF9843;
+}
+#testimonials{
+  background-color:#DCF2F1;
+  text-align: center;
+  padding: 6% 13%;
+}
+.test-images{
+  width:20%;
+}
+h2{
+  font-size: 2rem;
+}
+h3{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.shop-now{
+  width:20%;
+}
+#press{
+    background-color:#FFB5DA;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.press-logo{
+width:17%;
+margin: 2%;
+}
+#pricing{
+  padding:5% 5% 5%;
+  background-color: #FFF7F1;
+}
+.card-deck{
+
+}
+#cta{
+  padding: 2%;
+  background-color: #B4B4B8;
+}
+#footer{
+
+}
